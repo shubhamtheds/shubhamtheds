@@ -23,6 +23,8 @@
 
 - 📄 Know about my experiences [https://shubhamtheds.com/certifications](https://shubhamtheds.com/certifications)
 
+- 🧩 To know more about me **https://linktr.ee/shubhamtheds**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhamtheds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamtheds" height="30" width="40" /></a>
