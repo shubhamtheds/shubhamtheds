@@ -1,5 +1,5 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1429042619393351684/1649349946/1500x500)](https://shubhamtheds.com)
-<h1 align="center">Hello guys 👋, I'm Shubham Kumar Sharma</h1>
+[![MasterHead](https://cdn.jsdelivr.net/gh/shubhamtheds/shubhamtheds@main/banner.png)](https://shubhamtheds.com)
+<h1 align="center">Greetings, I'm Shubham Kumar Sharma.</h1>
 <h3 align="center">I am a mechanical engineer turned data scientist. I am currently delving into Machine Learning and Data Visualization.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
